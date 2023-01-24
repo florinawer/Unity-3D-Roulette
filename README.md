@@ -13,3 +13,5 @@ Negro-al dinero apostado se le suma al acumulado
 Rojo-le devuelve el dinero apostado más 1 demás, siempre que el dinero acumulado no supere el maximo aportado por el usuario.
 
 El juego acaba cuando el usuario obtiene beneficios deseados o supera aportación en perdidas.
+
+enlace al zip. https://gitlab.com/jasonette/unity-3d-rossonerri
